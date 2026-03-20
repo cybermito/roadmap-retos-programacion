@@ -1,0 +1,16 @@
+user.email=cybermito@gmail.com
+user.name=cybermito
+init.defaultbranch=main
+alias.tree=log --graph --decorate --all --oneline
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/cybermito/roadmap-retos-programacion.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+branch.main.vscode-merge-base=origin/main
+branch.ejercicios.vscode-merge-base=origin/main
+branch.ejercicios.remote=origin
+branch.ejercicios.merge=refs/heads/ejercicios
